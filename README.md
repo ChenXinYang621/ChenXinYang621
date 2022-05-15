@@ -1,4 +1,5 @@
 ### Hi there 👋
+欢迎光临我的仓库，目前都是小菜，偶尔会有些硬货。
 
 <!--
 **ChenXinYang621/ChenXinYang621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenXinYang621)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenXinYang621)](https://github.com/anuraghazra/github-readme-stats)
